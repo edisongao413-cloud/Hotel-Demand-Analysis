@@ -1,0 +1,9 @@
+# Data (download from Kaggle; see README)
+hotel_bookings.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
